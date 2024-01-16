@@ -1,11 +1,13 @@
-## JSP-Project-Modern Tech Market
+## Modern Tech Market
 **전자기기 중고거래 사이트**
 
 - [🔗웹 사이트 바로가기 URL](http://c7d2307t1.itwillbs.com/trade/main/Main.com)<br>
 
 ### 🖥️ 프로젝트 소개
-중고나라를 참고하여 만든 전자기기 중고거래 사이트입니다.
-원하는 제품을 먼저 제안할 수 있도록 제작했습니다.
+중고나라를 참고하여 개발한 전자기기 중고거래 플랫폼입니다.
+전자기기의 폐기물이 환경에 미치는 영향에서 착안하였으며, 고가의 전자기기를 보다 저렴한 가격에 거래 가능한 중고 거래 사이트입니다.
+판매자는 구매자에게 판매물품을 제안 또는 판매 가능하며, 구매자가 직접 제품 희망 글을 작성하고 먼저 거래제안이 가능할 수 있는
+기능을 구현했습니다.
 
 
 ### 🕰️ 개발 기간
@@ -21,18 +23,17 @@
 
 ### ⚙️ 개발 환경
 **✔️Language**  
-Java 11.0.15 
+Java
 JSP  
 HTML5  
 CSS3  
 JavaScript  
 jQuery  
 Ajax  
-JDK 11
 
 
 **✔️Database**  
-Mysql 8.0.33   
+Mysql
 Mysql Workbench  
 DBeaver  
 
@@ -42,7 +43,7 @@ Apache Tomcat 9.0
 
 
 **✔️Tool**  
-Eclipse 2022-06  
+Eclipse IDE
 Visual Studio Code  
 
 
